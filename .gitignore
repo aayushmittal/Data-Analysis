@@ -1,2 +1,9 @@
 /World Food Facts/Data
 /World Food Facts/.ipynb_checkpoints
+/San Francisco Crime/.ipynb_checkpoints
+/input
+/World Food Facts/Data/*
+/World Food Facts/.ipynb_checkpoints/*
+/San Francisco Crime/.ipynb_checkpoints/*
+/input/*
+.gitignore~
